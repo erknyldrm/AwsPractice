@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/SQSWebApiConsumer.props" />
+</Project>

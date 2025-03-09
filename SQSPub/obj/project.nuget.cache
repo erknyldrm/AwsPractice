@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "j3PVIr3Fgz5OBV5XJ1QeEXuW7ciI5Sg7JCUhTBu+OUevtITZl2O0VbOp+rYpjjZLrYq8M8dijQyYVuEUGnn7JA==",
+  "success": true,
+  "projectFilePath": "/Users/erkanyildirim/Documents/Applications/AwsPractice/SQSPub/SQSPub.csproj",
+  "expectedPackageFiles": [
+    "/Users/erkanyildirim/.nuget/packages/awssdk.core/3.7.402.5/awssdk.core.3.7.402.5.nupkg.sha512",
+    "/Users/erkanyildirim/.nuget/packages/awssdk.sqs/3.7.400.99/awssdk.sqs.3.7.400.99.nupkg.sha512"
+  ],
+  "logs": []
+}

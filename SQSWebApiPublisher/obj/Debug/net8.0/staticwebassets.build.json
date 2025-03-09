@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "P46a7seQ0iQmLDqI6N0N6b1go2RXUj+Ws/LgCqxqNd8=",
+  "Source": "SQSWebApiPublisher",
+  "BasePath": "_content/SQSWebApiPublisher",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

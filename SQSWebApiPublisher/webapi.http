@@ -1,0 +1,6 @@
+@SQSWebApiPublisher_HostAddress = http://localhost:5184
+
+GET {{SQSWebApiPublisher_HostAddress}}/basket/
+Accept: application/json
+
+###
