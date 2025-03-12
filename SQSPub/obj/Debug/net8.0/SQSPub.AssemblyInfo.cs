@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SQSPub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c86e47d8e2652e98dded81713fa5f2019d063b98")]
 [assembly: System.Reflection.AssemblyProductAttribute("SQSPub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SQSPub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

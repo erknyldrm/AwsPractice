@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bQSdEugmClZC5XrBQ7zAcHBLVCFXvX153TXpycWyoI0=",
+  "Source": "SNSWebApiPublisher",
+  "BasePath": "_content/SNSWebApiPublisher",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
