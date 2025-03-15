@@ -16,3 +16,4 @@
 /Users/erkanyildirim/Documents/Applications/AwsPractice/SQSConsumer/obj/Debug/net8.0/SQSConsumer.pdb
 /Users/erkanyildirim/Documents/Applications/AwsPractice/SQSConsumer/obj/Debug/net8.0/SQSConsumer.genruntimeconfig.cache
 /Users/erkanyildirim/Documents/Applications/AwsPractice/SQSConsumer/obj/Debug/net8.0/ref/SQSConsumer.dll
+/Users/erkanyildirim/Documents/Applications/AwsPractice/SQSConsumer/obj/Debug/net8.0/SQSConsumer.sourcelink.json

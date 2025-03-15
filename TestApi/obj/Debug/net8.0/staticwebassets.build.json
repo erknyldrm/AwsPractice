@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ppTE7tb9XBEqmexJ9p08P9/zxgdA8f4wk3QmQmI6NNU=",
+  "Source": "DynamoDbTestApi",
+  "BasePath": "_content/DynamoDbTestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
