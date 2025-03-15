@@ -17,13 +17,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SNSConsumer", "SNSConsumer\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SNSWebApiPublisher", "SNSWebApiPublisher\SNSWebApiPublisher.csproj", "{8BB1AD14-A8FB-45D2-A615-5C1A7E268F74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamoDbTestApi", "TestApi\DynamoDbTestApi.csproj", "{7CF4E597-B3F5-4D6E-B554-AF4D72C49AC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{08DD3147-AAAA-42C9-BDDC-29339D0891F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -54,5 +53,12 @@ Global
 		{8BB1AD14-A8FB-45D2-A615-5C1A7E268F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BB1AD14-A8FB-45D2-A615-5C1A7E268F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BB1AD14-A8FB-45D2-A615-5C1A7E268F74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CF4E597-B3F5-4D6E-B554-AF4D72C49AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF4E597-B3F5-4D6E-B554-AF4D72C49AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF4E597-B3F5-4D6E-B554-AF4D72C49AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF4E597-B3F5-4D6E-B554-AF4D72C49AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal

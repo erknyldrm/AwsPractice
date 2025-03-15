@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SNSPublisher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c86e47d8e2652e98dded81713fa5f2019d063b98")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37312f979b73233908cba564402403a573f76cdc")]
 [assembly: System.Reflection.AssemblyProductAttribute("SNSPublisher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SNSPublisher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
